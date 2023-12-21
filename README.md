@@ -37,8 +37,8 @@ The algorithm progressively located points of interest, with some overlap occurr
 ![Center accuracy progress](./assets/center-accuracy-progress.jpg)
 
 ### The computed center of Iran is at:
-Latitude: 31.831892051806985
-Longitude: 54.73842941961702
+- **Center Latitude**: `31.831892051806985`
+- **Center Longitude**: `54.73842941961702`
 
 
 ### Here's [how it looks](https://www.google.com/maps/place/31%C2%B049'54.8%22N+54%C2%B044'18.4%22E/@31.9097537,54.3585796,10.64z/data=!4m4!3m3!8m2!3d31.8318889!4d54.7384444?entry=ttu "center of Iran on Google Maps") on Google Maps:
@@ -49,3 +49,4 @@ Contrary to the popular belief held by many people in Yazd, the geographical cen
 ---
 
 Feel free to explore the code and contribute to the accuracy of this project!
+Particularly, I believe there could be much better methods for collecting the coordinates of points on Iran’s border. If you have an idea for automating this process, please do not hesitate to have a go!
